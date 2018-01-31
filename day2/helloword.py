@@ -1,1 +1,1 @@
-print('lubie, placki')
+print('lubie placki z rabarbarem')
